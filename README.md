@@ -14,7 +14,7 @@ A robust Python application designed for an Adobe Hackathon to parse PDF documen
   - [Usage]
   - [Running with Docker]
   - [License]
-
+ 
 ## About The Project
 
 This project addresses the common challenge of extracting meaningful information from unstructured PDF files. Standard text extraction often results in a single, unformatted block of text, losing the document's inherent structure. This solution not only extracts text but also intelligently identifies and separates structural elements like headings and paragraphs, providing a clean, machine-readable JSON output.

@@ -95,7 +95,7 @@ def format_with_sequential_keys(structured_list):
 def process_all_pdfs_b():
     """Processes all PDF files for Round 1B."""
     if not os.path.exists(OUTPUT_DIR):
-        os.makedirs(OUTPUT_DIR)
+        os.makedirs(OUTPUT_DIR)  
 
     print(f"Searching for PDFs in: {INPUT_DIR}")
     

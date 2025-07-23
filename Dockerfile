@@ -15,4 +15,4 @@ COPY . /app
 
 # Command to run when the container starts.
 # It will automatically run the structured data extraction.
-CMD ["python", "src/round1b.py"]
+CMD ["python", "src/round1b.py"] 
